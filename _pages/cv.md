@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Benjamin Nowak Resume"
+title: "Benjamin Nowak's Resume"
 permalink: /resume/
 author_profile: true
 redirect_from:
